@@ -1,2 +1,2 @@
-# Tugas-Praktikum-1
-+ Repository tugas praktikum 1 
+# Tugas-Praktikum
++ Halo semuanya ini adalah kumpulan Tugas Praktikum JAVA OOP yang telah saya pelajari
