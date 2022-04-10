@@ -1,4 +1,4 @@
-package Praktikum5;
+package Praktikum3;
 
 public class Baju {
     String jenis;
